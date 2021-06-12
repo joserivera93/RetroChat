@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328242103001",
+    "project_id": "retrochat-35780",
+    "storage_bucket": "retrochat-35780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328242103001:android:56b5dd62ab23c9615634c8",
+        "android_client_info": {
+          "package_name": "com.example.retrochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328242103001-h1e41ik7sdroqasi63793btrq0pbon4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retrochat",
+            "certificate_hash": "423e2e16960b4d449a29a16b5fb44dfd1b5056e8"
+          }
+        },
+        {
+          "client_id": "328242103001-cnj4nib0pshcjs1iabi7skgrbh4qhsoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8qgylPZLBeNErKLsLCPyxlaK3er8_XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328242103001-cnj4nib0pshcjs1iabi7skgrbh4qhsoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
